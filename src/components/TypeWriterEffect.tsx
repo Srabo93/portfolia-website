@@ -31,7 +31,7 @@ const TypeWriterEffect = ({ text }: { text: string }) => {
       animate={{ opacity: 0 }}
       transition={{ delay: 3.8 }}
     >
-      <p className="text-error italic text-6xl font-mono tracking-wide leading-loose pt-5">
+      <p className="text-accent italic text-6xl font-mono tracking-wide leading-loose pt-5">
         {typedText}
       </p>
     </motion.div>

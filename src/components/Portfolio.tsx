@@ -2,7 +2,7 @@ const Portfolio = () => {
   return (
     <>
       <div className="divider">
-        <h2 className="text-5xl my-5 font-bold text-center text-primary">
+        <h2 className="text-5xl my-5 font-mono font-bold text-center text-primary">
           Portfolio
         </h2>
       </div>

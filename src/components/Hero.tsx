@@ -12,7 +12,7 @@ const Hero = () => {
           transition={{ delay: 5 }}
         >
           <figure className="avatar">
-            <div className="w-48 rounded-full">
+            <div className="w-48 rounded-full shadow-md shadow-accent">
               <img
                 src="https://picsum.photos/300"
                 alt="Avatar of Armin Srabovic"
@@ -20,7 +20,9 @@ const Hero = () => {
               />
             </div>
           </figure>
-          <h1 className="mb-5 text-5xl font-bold text-primary">Hello there</h1>
+          <h1 className="my-5 text-5xl font-bold font-mono text-primary">
+            Hello there
+          </h1>
           <p className="mb-5 text-neutral">
             Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda
             excepturi exercitationem quasi. In deleniti eaque aut repudiandae et
