@@ -2,7 +2,9 @@ const Portfolio = () => {
   return (
     <>
       <div className="divider">
-        <h2 className="text-5xl my-5 font-bold text-center">Portfolio</h2>
+        <h2 className="text-5xl my-5 font-bold text-center text-primary">
+          Portfolio
+        </h2>
       </div>
       <section className="flex items-center my-5">
         <article className="w-1/4 p-2">
