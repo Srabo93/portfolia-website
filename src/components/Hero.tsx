@@ -23,7 +23,7 @@ const Hero = () => {
           <h1 className="my-5 text-5xl font-bold font-mono text-primary">
             Hello there
           </h1>
-          <p className="mb-5 text-neutral">
+          <p className="text-lg mb-5 text-neutral">
             Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda
             excepturi exercitationem quasi. In deleniti eaque aut repudiandae et
             a id nisi.
