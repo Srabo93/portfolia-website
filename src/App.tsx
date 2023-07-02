@@ -12,4 +12,9 @@ function App() {
   );
 }
 
+/**
+ * TODO:
+ * Localization En-De
+ *
+ * */
 export default App;
