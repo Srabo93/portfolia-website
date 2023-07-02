@@ -15,6 +15,8 @@ function App() {
 /**
  * TODO:
  * Localization En-De
+ * Add 'My Expertise' section , 3 columns, Software Dev, Frontend , Backend
+ * opacity html Code background / terminal background
  *
  * */
 export default App;
