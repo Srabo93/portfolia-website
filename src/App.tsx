@@ -1,4 +1,5 @@
 import ContactButton from "./components/ContactButton";
+import Expertise from "./components/Expertise";
 import Hero from "./components/Hero";
 import Portfolio from "./components/Portfolio";
 
@@ -7,6 +8,7 @@ function App() {
     <main>
       <Hero />
       <Portfolio />
+      <Expertise />
       <ContactButton />
     </main>
   );

@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 const Projects = () => {
   return (
     <motion.section
-      className="flex flex-wrap items-center p-5"
+      className="flex flex-wrap items-center text-center p-5"
       initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
       transition={{ delay: 1 }}
