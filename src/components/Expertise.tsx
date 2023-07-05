@@ -19,7 +19,7 @@ const Expertise = () => {
             </h3>
           </div>
           <ul className="text-neutral text-center md:text-left md:list-disc p-2">
-            <li>Experienced in Javascript / Typescript</li>
+            <li>Experienced in Javascript / Typescript and PHP</li>
             <li>Cloud Platforms of Choice: AWS and Firebase</li>
           </ul>
         </article>
