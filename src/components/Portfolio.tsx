@@ -10,13 +10,11 @@ const Portfolio = () => {
       </div>
       <p className="text-lg text-center text-neutral py-5">
         Here are some of my latest Projects, you can find more on{" "}
-        <a
-          className="underline text-accent"
-          href="https://github.com/Srabo93"
-          target="_blank"
-        >
-          Github
-        </a>
+        <span className="underline text-accent hover:italic">
+          <a href="https://github.com/Srabo93" target="_blank">
+            Github
+          </a>
+        </span>
       </p>
       <Projects />
     </>
