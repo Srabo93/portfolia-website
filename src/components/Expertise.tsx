@@ -18,10 +18,10 @@ const Expertise = () => {
               Development
             </h3>
           </div>
-          <p className="text-neutral text-center md:text-left p-2">
-            Experienced in Javascript/Typescript and PHP. Cloud Platforms of
-            Choice: Firebase and AWS
-          </p>
+          <ul className="text-neutral text-center md:text-left md:list-disc p-2">
+            <li>Experienced in Javascript / Typescript</li>
+            <li>Cloud Platforms of Choice: AWS and Firebase</li>
+          </ul>
         </article>
         <article className="flex flex-wrap justify-center content-start p-5 md:border-e-2 md:border-secondary">
           <div className="flex sm:pb-2 md:pb-2 lg:pb-5">
@@ -30,9 +30,11 @@ const Expertise = () => {
               Frontend
             </h3>
           </div>
-          <p className="text-neutral  text-center md:text-left p-2">
-            HTML, CSS, TailwindCSS, MUI, JS, Redux, React and NextJS frameworks
-          </p>
+          <ul className="text-neutral text-center md:text-left md:list-disc p-2">
+            <li>HTML, CSS, Javascript / Typescript</li>
+            <li>Design Systems: Material/Chakra UI</li>
+            <li>Frameworks: React, NextJS</li>
+          </ul>
         </article>
         <article className="flex flex-wrap justify-center content-start p-5">
           <div className="flex sm:pb-2 md:pb-2 lg:pb-5">
@@ -41,7 +43,7 @@ const Expertise = () => {
               Backend
             </h3>
           </div>
-          <ul className="text-neutral text-center md:text-left  p-2">
+          <ul className="text-neutral text-center md:text-left md:list-disc p-2">
             <li>Languages: NodeJS, PHP</li>
             <li>Frameworks: ExpressJS, Symfony API-Platform</li>
             <li>Databases: postgreSQL, MongoDB</li>
