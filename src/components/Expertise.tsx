@@ -43,7 +43,7 @@ const Expertise = () => {
           </div>
           <ul className="text-neutral text-center md:text-left md:list-disc p-2">
             <li>HTML, CSS, Javascript / Typescript</li>
-            <li>Design Systems: Material/Chakra UI</li>
+            <li>Design Systems: Material & Chakra UI, Tailwind CSS</li>
             <li>Frameworks: React, NextJS</li>
           </ul>
         </article>
