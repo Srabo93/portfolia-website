@@ -18,7 +18,10 @@ const Expertise = () => {
               animate={{ opacity: [0.3, 1, 0.2] }}
               transition={{ repeat: Infinity, duration: 4, ease: "easeIn" }}
             >
-              <img src={ComputerSVG} className="flex-initial w-12 mx-2" />
+              <img
+                src={ComputerSVG}
+                className="flex-initial w-12 md:mx-0 lg:mx-2 mx-2"
+              />
             </motion.div>
             <h3 className="flex-1 font-bold text-2xl text-secondary underline decoration-error underline-offset-8 decoration-8">
               Development

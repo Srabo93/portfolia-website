@@ -5,7 +5,7 @@ import Portfolio from "./components/Portfolio";
 
 function App() {
   return (
-    <main>
+    <main className="lg:container mx-auto">
       <Hero />
       <Portfolio />
       <Expertise />

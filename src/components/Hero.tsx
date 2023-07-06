@@ -3,7 +3,7 @@ import TypeWriterEffect from "./TypeWriterEffect";
 
 const Hero = () => {
   return (
-    <section className="hero min-h-screen hero-content text-center ">
+    <section className="hero min-h-screen m-auto hero-content text-center ">
       <div className="max-w-md">
         <TypeWriterEffect text="Deeveloper is loading ....." />
         <motion.div
